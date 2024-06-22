@@ -1,6 +1,4 @@
 # Hello-word
  Primeiro repositório do curso Git e GITHub
 
- Repositório criado testes e estudos
-
-linha adicionada remotamente
+ Repositório criado para testes e estudos
